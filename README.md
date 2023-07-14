@@ -1,7 +1,7 @@
 ## about me
 ```
 age: 16
-self taught software engineer
+someone.
 ```
 
 ## an interesting bird to look at
