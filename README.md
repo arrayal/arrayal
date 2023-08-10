@@ -1,9 +1,3 @@
-## about me
-```
-age: 16
-someone.
-```
-
 ## an interesting bird to look at
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
